@@ -4,6 +4,6 @@
 
  $secretKey = 'U6ys7zU14LdgYsoOeUHIVAH5Pj21rQ89';
 
- $redirectURI = 'http://localhost/login.php';
+ $redirectURI = 'https://gsreptesteml.herokuapp.com/login.php';
 
  $siteId = 'MLB';
